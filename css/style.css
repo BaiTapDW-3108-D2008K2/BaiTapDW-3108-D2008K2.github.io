@@ -300,6 +300,7 @@ header{
 footer{
 	height: 200px;
 	background: #0D0D0D;
+	width: 100%;
 }
 .cuoi{
 	opacity: 0.8;
