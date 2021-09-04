@@ -288,13 +288,13 @@ header{
 .swu-img .mot{
 	position: absolute;
 	top: 160px;
-	left: 920px;
+	left: 720px;
 	z-index: 2;
 }
 .swu-img .hai{
 	position: absolute;
 	top: 120px;
-	left: 1285px;
+	left: 1085px;
 	z-index: 1;
 }
 /*footer*/
