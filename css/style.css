@@ -231,6 +231,9 @@ header{
 	font-size: 48px;
 	font-weight: 500;
 }
+.brand-name-tong{
+	margin-left: 40px;
+}
 .brand-name{
 	align-items: center;
 	margin-right: 76px;
