@@ -259,7 +259,7 @@ header{
 	background: url("../img/base.png"), #F9F8FF;
 	position: relative;
 	width: 100%;
-	background-size: 100%;
+	background-size: cover;
 	background-repeat: no-repeat;
 	height: 790px;
 }
