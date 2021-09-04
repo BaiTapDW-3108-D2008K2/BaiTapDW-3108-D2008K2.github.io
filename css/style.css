@@ -260,7 +260,7 @@ header{
 	width: 100%;
 	background-size: 100%;
 	background-repeat: no-repeat;
-	height: 800px;
+	height: 790px;
 }
 .swu-text{
 	color: #FFFFFF;
@@ -298,7 +298,6 @@ header{
 }
 /*footer*/
 footer{
-	padding-top: 10px;
 	height: 200px;
 	background: #0D0D0D;
 }
